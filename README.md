@@ -18,4 +18,4 @@ Project Objectives:
 
 - Visualization: Create informative visualizations to communicate findings and model performance.
   
-![](https://github.com/KalaPrinceM/DATA_SCIENCE_Portfolio/blob/main/Images/ESKOM%20Power%20Station.jpg)
+![](https://github.com/KalaPrinceM/DATA_SCIENCE_Portfolio/blob/main/Python/Eskom/Images/ESKOM%20Power%20Station.jpg)

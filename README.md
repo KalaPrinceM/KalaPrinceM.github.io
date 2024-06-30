@@ -8,7 +8,7 @@ Welcome to my Data Science Portfolio!
 - The projects demonstrate my expertise in data analysis, machine learning, data visualization, and more. Below you will find a brief overview of each project, along with links and detailed descriptions.
 
 # Data Science Projects
-## Project 1: Eskom Power Station - Electrification by Province
+## [Project 1: Eskom Power Station - Electrification by Province](https://github.com/KalaPrinceM/DATA_SCIENCE_Portfolio/blob/main/ESKOM%20Python%20Portfolio.ipynb)
 Project Objectives:
 
 - Data Analysis: Perform exploratory data analysis (EDA) to understand the characteristics of the data, identify trends, and detect patterns.
